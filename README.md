@@ -9,7 +9,7 @@ Studi Kasus
 Perhitungan nilai dari dataset supermarket sales yang diperoleh dari kaggle untuk mengetahui berapa banyak lini produk yang dijual. 
 
 ### Hasil Mapreduce Hadoop
-![](screenshot/screenshot.png)
+![](screenshot/screenshot.jpeg)
 
 ### Link Demonstrasi Youtube
 https://youtu.be/VBhEl__pkcI
